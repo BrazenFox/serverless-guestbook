@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://22763116-a76d-454f-bacd-aa2ea7e4029a-bluemix.cloudant.com/dashboard.html#/database/guestbook';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/2272fd08-9e69-4c58-9cc9-5c8bd4761119/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
